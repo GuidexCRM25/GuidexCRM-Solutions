@@ -77,8 +77,9 @@ ElavanLabs
 
 ## Connect With Us
 
-Website: https://guidexcrm.com  
-Email: contact@guidexcrm.com 
+Website: https://guidexcrm.com/
+Email: contact@guidexcrm.com/
+
 https://www.upwork.com/agencies/guidexcrmsolutions/
 
 ---
