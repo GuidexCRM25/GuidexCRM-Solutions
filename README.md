@@ -68,8 +68,11 @@ OpenAI
 Zapier  
 Make (Integromat)  
 API Integrations  
+
 n8n
+
 ChatGpt
+
 ElavanLabs
 
 
