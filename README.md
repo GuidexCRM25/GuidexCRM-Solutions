@@ -2,7 +2,8 @@
 
 ### AI-Powered CRM & Automation Systems
 
-![Banner](https://via.placeholder.com/1200x300.png?text=AI+CRM+Automation+Systems)
+![![Uploading ChatGPT Image Apr 29, 2026, 04_00_55 PM.png…]()
+](https://via.placeholder.com/1200x300.png?text=AI+CRM+Automation+Systems)
 
 We help businesses automate lead conversion, streamline operations, and scale using CRM + AI.
 
