@@ -1,8 +1,8 @@
 <h1 align="center">GuidexCRM Solutions</h1>
-<h3 align="center">Turning CRM Systems into Powerful Growth Engines</h3>
+<h3 align="center">AI-Powered CRM & Automation Systems</h3>
 
 <p align="center">
-CRM Automation • HubSpot • GoHighLevel • AI Voice Agents • AI Chatbots
+We help businesses automate lead conversion, streamline operations, and scale using CRM + AI
 </p>
 
 ---
@@ -17,14 +17,16 @@ Our mission is simple: **turn your CRM into a revenue-driving system.**
 
 ---
 
-## 💼 Our Services
+## 💼 What We Do:
 
 🤖 AI Voice Agents for Lead Qualification  
-💬 AI Chatbots for Customer Support  
+💬 AI Chatbots for Customer Support
+🏢 HubSpot CRM Implementation & Optimization
+🏢 GoHighLevel (GHL) Automation Systems
 ⚙️ CRM Workflow Automation  
 📈 Sales Funnel & Pipeline Automation  
 🔗 CRM Integrations & API Automation  
-🏢 HubSpot & GoHighLevel Implementation  
+🏢 Outbound Systems (Apollo + Instantly)  
 🧠 AI Automation & Smart Customer Engagement Systems  
 
 ---
@@ -69,7 +71,7 @@ Our mission is simple: **turn your CRM into a revenue-driving system.**
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Case Studies
 
 ### 🤖 AI Voice Agent for Lead Qualification
 An AI-powered voice assistant that automatically answers inbound calls, qualifies leads, and schedules appointments directly into the CRM.
