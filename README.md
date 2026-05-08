@@ -126,6 +126,8 @@ We fixed and rebuilt the completely broken lead management and automation setup 
 - Centralized all leads into one system
 
 - 👉 Result: No lead leakage + improved visibility
+  
+ ---
 
 - ### 5-  📊 SaaS Company
 - Built HubSpot from scratch
@@ -133,6 +135,7 @@ We fixed and rebuilt the completely broken lead management and automation setup 
 - Set up outbound system using Apollo + Instantly
   
 👉 Result: Scalable outbound system + structured CRM
+---
 
 ### 6. Real Estate Firm
 - Implemented HubSpot CRM from scratch
@@ -140,7 +143,6 @@ We fixed and rebuilt the completely broken lead management and automation setup 
 - Reduced manual processes
 
 👉 Result: Smooth operations and better lead tracking. Implemented CRM automation that reduced manual follow-ups by **80%** and increased lead response time by **5x faster**
-
 
 
 - ---
