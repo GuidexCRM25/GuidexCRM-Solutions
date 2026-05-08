@@ -160,16 +160,15 @@ We fixed and rebuilt the completely broken lead management and automation setup 
 
 - ---
 
-## 📈 Real Results
+## 🏆 Case Studies
 
-### Real Estate CRM Automation
-Implemented CRM automation that reduced manual follow-ups by **80%** and increased lead response time by **5x faster**.
-
-### AI Voice Lead Qualification
-Built an AI voice agent that automatically handled **70% of inbound calls**, allowing sales teams to focus only on qualified prospects.
-
-### Marketing Agency CRM System
-Developed a fully automated lead pipeline inside GoHighLevel that improved **conversion rates by 35%**.
+| Project | Description | Result |
+|--------|------------|--------|
+| Capital Gold | AI Voice + HubSpot | Better qualification |
+| Oncology Clinic | CRM + Twilio | Structured data |
+| SaaS Company | CRM + Outbound | Scalable system |
+| Real Estate | CRM Setup | Smooth ops |
+| GHL Project | Lead Flow | No lead loss |
 
 
 
