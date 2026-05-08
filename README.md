@@ -74,9 +74,9 @@ Our mission is simple: **turn your CRM into a revenue-driving system.**
 
 ---
 
-## 🏆 Case Studies
+## 🏆 Our Case Studies
 
-### 🤖 AI Voice Agent for Lead Qualification
+### 1-  🤖 AI Voice Agent for Lead Qualification
 An AI-powered voice assistant that automatically answers inbound calls, qualifies leads, and schedules appointments directly into the CRM.
 
 **Features**
@@ -84,21 +84,25 @@ An AI-powered voice assistant that automatically answers inbound calls, qualifie
 - Lead qualification logic
 - CRM integration
 - Appointment booking automation
+👉 Result: Implemented AI voice-based lead qualification to automate outbound engagement, resulting in faster response times, improved lead filtering, and reduced manual effort.
 
 ---
 
-### ⚙️ HubSpot CRM Automation System
+### 2- ⚙️  Capital Gold Business (US)
 Custom automation workflows built inside HubSpot to streamline sales processes and automate follow-ups.
 
 **Features**
-- Automated lead nurturing
-- Pipeline automation
-- Task assignment
-- Sales analytics
+- Cleaned and optimized the HubSpot system
+- Built automation workflows with custom logic
+- Deployed AI voice calling agent (NLP-based)
+- Integrated Trustpilot with CRM
+  
+👉 Result: Faster follow-up, better lead qualification, improved pipeline visibility
+
 
 ---
 
-### 💬 AI Customer Support Chatbot
+### 3-  💬 AI Customer Support Chatbot
 A smart chatbot designed to handle customer inquiries, book meetings, and capture leads.
 
 **Features**
@@ -109,18 +113,39 @@ A smart chatbot designed to handle customer inquiries, book meetings, and captur
 
 ---
 
-### 📊 GoHighLevel Lead Automation System
-A complete lead management and automation setup built inside GoHighLevel.
+### 4-  📊 GHL System Recovery Project
+We fixed and rebuilt the completely broken lead management and automation setup inside GoHighLevel.
 
 **Features**
 - Automated follow-ups
+  Fixed the broken GoHighLevel setup
+  Connected website, landing pages & social lead sources
 - Funnel automation
 - SMS/email sequences
 - Lead pipeline tracking
+- Centralized all leads into one system
+
+- 👉 Result: No lead leakage + improved visibility
+
+- ### 5-  📊 SaaS Company
+- Built HubSpot from scratch
+- Created advanced custom properties & workflows
+- Set up outbound system using Apollo + Instantly
+  
+👉 Result: Scalable outbound system + structured CRM
+
+### 6. Real Estate Firm
+- Implemented HubSpot CRM from scratch
+- Built pipelines and automation workflows
+- Reduced manual processes
+
+👉 Result: Smooth operations and better lead tracking. Implemented CRM automation that reduced manual follow-ups by **80%** and increased lead response time by **5x faster**
+
+
 
 - ---
 
-## 📈 Case Studies
+## 📈 Real Results
 
 ### Real Estate CRM Automation
 Implemented CRM automation that reduced manual follow-ups by **80%** and increased lead response time by **5x faster**.
@@ -131,19 +156,24 @@ Built an AI voice agent that automatically handled **70% of inbound calls**, all
 ### Marketing Agency CRM System
 Developed a fully automated lead pipeline inside GoHighLevel that improved **conversion rates by 35%**.
 
+
+
 ---
 
-## 🎯 How We Help Businesses Grow
+## 🧠 Our Approach
 
-At GuidexCRM Solutions, we help companies:
+At GuidexCRM Solutions, We don’t just implement tools.
 
+We build **end-to-end systems** that:
 ✔ Capture more leads  
 ✔ Automate sales follow-ups  
 ✔ Reduce manual CRM work  
 ✔ Improve customer engagement  
-✔ Scale sales operations with AI automation  
+✔ Scale sales operations with AI automation 
+✔ qualify prospects
+✔ drive conversions
 
-Our CRM systems are designed to turn **customer data into predictable revenue growth.**
+Our AI-driven approach is designed to turn **customer data into predictable revenue growth.**
 
 ---
 
