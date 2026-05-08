@@ -1,9 +1,18 @@
-<h1 align="center">GuidexCRM Solutions</h1>
-<h3 align="center">AI-Powered CRM & Automation Systems</h3>
+# 🚀 GuidexCRM Solutions
 
-<p align="center">
-We help businesses automate lead conversion, streamline operations, and scale using CRM + AI
-</p>
+### AI-Powered CRM & Automation Systems
+
+![Banner](https://via.placeholder.com/1200x300.png?text=AI+CRM+Automation+Systems)
+
+We help businesses automate lead conversion, streamline operations, and scale using CRM + AI.
+
+---
+
+![HubSpot](https://img.shields.io/badge/HubSpot-CRM-orange)
+![GoHighLevel](https://img.shields.io/badge/GHL-Automation-blue)
+![Zapier](https://img.shields.io/badge/Zapier-Integrations-yellow)
+![Twilio](https://img.shields.io/badge/Twilio-Communication-red)
+![AI](https://img.shields.io/badge/AI-NLP-green)
 
 ---
 
