@@ -2,8 +2,6 @@
 
 ### AI-Powered CRM & Automation Systems
 
-![![Uploading ChatGPT Image Apr 29, 2026, 04_00_55 PM.png…]()
-](https://via.placeholder.com/1200x300.png?text=AI+CRM+Automation+Systems)
 
 We help businesses automate lead conversion, streamline operations, and scale using CRM + AI.
 
@@ -14,6 +12,11 @@ We help businesses automate lead conversion, streamline operations, and scale us
 ![Zapier](https://img.shields.io/badge/Zapier-Integrations-yellow)
 ![Twilio](https://img.shields.io/badge/Twilio-Communication-red)
 ![AI](https://img.shields.io/badge/AI-NLP-green)
+## 📊 Our Impact
+
+| Clients | Projects | Automations | Satisfaction |
+|--------|---------|------------|--------------|
+| 10+ | 20+ | 100+ | 100% |
 
 ---
 
