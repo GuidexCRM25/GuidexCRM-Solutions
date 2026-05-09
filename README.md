@@ -203,7 +203,7 @@ Our AI-driven approach is designed to turn **customer data into predictable reve
 <img src="https://img.shields.io/badge/Email-contact@guidexcrm.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/company/guidexcrm">
+<a href="https://www.linkedin.com/company/guidexcrm-solutions/">
 <img src="https://img.shields.io/badge/LinkedIn-GuidexCRM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
